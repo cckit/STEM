@@ -1,0 +1,16 @@
+{
+  "name": "stem",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "author": "Tommy Chan",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^3.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
